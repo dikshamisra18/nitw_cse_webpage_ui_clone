@@ -1,2 +1,13 @@
 # nitw_cse_webpage_ui_clone
 A frontend-only UI practice project inspired by the NIT Warangal website, built using HTML and CSS to explore layout design, responsiveness, and styling concepts.
+
+
+NIT Warangal Website – UI Inspired Frontend Project
+
+This project is a frontend-only UI practice website inspired by the official NIT Warangal website.
+It focuses on recreating the overall layout, structure, and visual sections using HTML and CSS, rather than building a pixel-perfect replica.
+
+The objective of this project was to strengthen my understanding of Flexbox, responsive design, hover effects, layout alignment, and component structuring.
+
+All links and navigation elements are non-functional and are included purely for visual representation.
+This project is intended solely for educational and learning purposes.
